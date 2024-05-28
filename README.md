@@ -9,3 +9,5 @@ How to make the menu work:
 7. Click Import files.
 8. then click "MiiModdVuPickHtml"
         if this did not help go to my youtube channel https://www.youtube.com/@IdiotYT514 !
+
+                  (WARNING!!! when you get a new version delete the old version that you have)
